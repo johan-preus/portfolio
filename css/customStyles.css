@@ -1,11 +1,22 @@
 .bg-custom {
-    background-color: hsl(0, 86%, 57%) ;
+    background-color: hsl(25, 86%, 50%) ;
+    background-color: hsl(50, 86%, 50%) ;
+    background-color: hsl(170, 80%, 50%) ;
+
+
 }
 
 .bg-custom-2 {
-    background-color: hsl(25, 86%, 57%) ;
+    background-color: hsl(25, 86%, 50%) ;
+    background-color: hsl(0, 86%, 50%) ;
+    background-color: hsl(190, 80%, 50%) ;
+
 }
 
 .bg-custom-3 {
-    background-color: hsl(50, 86%, 57%) ;
+    background-color: hsl(50, 86%, 50%) ;
+    background-color: hsl(25, 86%, 50%) ;
+    background-color: hsl(210, 80%, 50%) ;
+
+
 }
